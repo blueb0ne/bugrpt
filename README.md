@@ -1,7 +1,3 @@
-bugrpt集成说明
+## bugrpt闆嗘垚璇存槑
 
-在项目的buid.gradle文件的dependencies中添加
-compile 'com.netease.nis.plugin:bugrpt:latest.release'           //最新版本
-
-或
-compile 'com.netease.nis.plugin:bugrpt:3.6.2'                    //指定版本
+鍙傝�僪ttp://crash.163.com/#dumply/faq/android/java
