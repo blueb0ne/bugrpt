@@ -1,3 +1,3 @@
 ## bugrpt-android sdk集成说明
 
-参考http://crash.163.com/#dumply/faq/android/java
+请参考http://crash.163.com/#dumply/faq/android/java
